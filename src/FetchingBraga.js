@@ -21,34 +21,34 @@ function FetchingBraga() {
       <h1 className='text-xl mb-2'>Dashboard</h1>
       <div class="max-w-screen-lg bg-sky-500 rounded-lg mx-9 text-center py-12 mt-4 mb-7">
         <h2 class="text-3xl leading-9 font-bold tracking-tight text-white sm:text-4xl sm:leading-10 text-left mx-9">
-          Total Produk <span className='text-right'>100</span>
+          Total Produk <span className='mr-4'>30</span>
         </h2>
       </div>
       {/* <div className='grid grid-cols-4 gap-4'> */}
       <div className='flex flex-wrap'>
         <div class="mb-5 mx-9 basis-1/4 block p-6 max-w-sm bg-white rounded-lg border border-gray-200 shadow-md hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
           <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Home Decoration</h5>
-          <p class="font-normal text-gray-700 dark:text-gray-400">3</p>
+          <p class="font-normal text-gray-700 dark:text-gray-400">5</p>
         </div>
         <div class="mb-5 mx-2 basis-1/4 block p-6 max-w-sm bg-white rounded-lg border border-gray-200 shadow-md hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
           <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Groceries</h5>
-          <p class="font-normal text-gray-700 dark:text-gray-400">4</p>
+          <p class="font-normal text-gray-700 dark:text-gray-400">5</p>
         </div>
         <div class="mb-5 mx-9 basis-1/4 block p-6 max-w-sm bg-white rounded-lg border border-gray-200 shadow-md hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
           <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Skincare</h5>
-          <p class="font-normal text-gray-700 dark:text-gray-400">2</p>
+          <p class="font-normal text-gray-700 dark:text-gray-400">5</p>
         </div>
         <div class="mb-5 mx-9 basis-1/4 block p-6 max-w-sm bg-white rounded-lg border border-gray-200 shadow-md hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
           <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Fragrances</h5>
-          <p class="font-normal text-gray-700 dark:text-gray-400">3</p>
+          <p class="font-normal text-gray-700 dark:text-gray-400">5</p>
         </div>
         <div class="mb-5 mx-2 basis-1/4 block p-6 max-w-sm bg-white rounded-lg border border-gray-200 shadow-md hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
           <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Smartphone</h5>
-          <p class="font-normal text-gray-700 dark:text-gray-400">2</p>
+          <p class="font-normal text-gray-700 dark:text-gray-400">5</p>
         </div>
         <div class="mb-5 mx-9 basis-1/4 block p-6 max-w-sm bg-white rounded-lg border border-gray-200 shadow-md hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
           <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Laptop</h5>
-          <p class="font-normal text-gray-700 dark:text-gray-400">1</p>
+          <p class="font-normal text-gray-700 dark:text-gray-400">5</p>
         </div>  
       </div>
       <h2 className='text-xl mb-2'>Table List Product</h2>
